@@ -1,0 +1,3 @@
+rows,layer,columns,duplicates,missing_values,invalid_prices,invalid_quantities,invalid_dates,duplicates_lines_dropped,missing_values_dropped,missing_values_removed
+503,RAW,9,2,3,0,0,0,0,0.0,
+499,STAGING,10,0,1,0,0,0,2,,2.0

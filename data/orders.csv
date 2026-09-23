@@ -1,0 +1,504 @@
+order_id,order_date,customer_id,product_id,product_name,category,quantity,unit_price,country
+100241,2025-02-16,C00260,P00033,Running Shoes,Sportswear,2,81.39,Italy
+100363,2025-03-23,C00208,P00815,Cookbook,Books,2,25.3,United Kingdom
+100111,2025-08-19,C00125,P00612,Backpack,Accessories,2,45.66,Italy
+100239,2025-11-20,C00156,P00678,Office Chair,Furniture,2,185.14,Germany
+100068,2025-10-02,C00170,P00452,Laptop,Electronics,1,784.56,United States
+100456,2025-08-25,C00119,P00033,Running Shoes,Sportswear,2,80.74,France
+100194,2025-08-21,C00047,P00815,Cookbook,Books,1,25.7,Belgium
+100065,2025-01-20,C00241,P00045,Tablet,Electronics,1,396.38,United Kingdom
+100091,2025-10-27,C00011,P00612,Backpack,Accessories,2,47.21,Spain
+100376,2025-07-13,C00193,P00311,Mechanical Keyboard,Electronics,2,90.2,Belgium
+100476,2025-10-29,C00180,P00967,Notebook Set,Stationery,2,9.05,Spain
+100215,2025-02-28,C00143,P00871,Vacuum Cleaner,Home Appliances,1,200.72,Spain
+100428,2025-06-07,C00228,P00522,Desk Lamp,Furniture,3,24.37,France
+100285,2025-04-03,C00280,P00789,Standing Desk,Furniture,1,353.37,France
+100385,2025-10-22,C00164,P00871,Vacuum Cleaner,Home Appliances,2,197.84,Belgium
+100245,2025-08-13,C00269,P00399,Coffee Maker,Home Appliances,2,92.25,Germany
+100093,2025-04-23,C00250,P00045,Tablet,Electronics,1,397.32,Spain
+100322,2025-05-27,C00275,P00452,Laptop,Electronics,3,818.35,Spain
+100438,2025-06-10,C00091,P00033,Running Shoes,Sportswear,4,80.93,France
+100446,2025-10-02,C00044,P00087,27-inch Monitor,Electronics,3,247.82,Belgium
+100316,2025-06-13,C00124,P00846,Dumbbell Set,Sportswear,1,58.7,Spain
+100123,2025-12-24,C00065,P00733,Novel - Fiction,Books,3,13.28,Spain
+100430,2025-07-01,C00284,P00311,Mechanical Keyboard,Electronics,2,91.95,Portugal
+100481,2025-05-07,C00202,P00256,Water Bottle,Sportswear,1,15.1,Belgium
+100177,2025-12-04,C00071,P00733,Novel - Fiction,Books,1,12.63,Belgium
+100337,2025-02-01,C00071,P00399,Coffee Maker,Home Appliances,1,90.87,Germany
+100421,2025-10-04,C00170,P00033,Running Shoes,Sportswear,3,82.33,France
+100191,2025-05-24,C00017,P00967,Notebook Set,Stationery,1,9.23,Spain
+100312,2025-11-18,C00280,P00789,Standing Desk,Furniture,2,344.63,Germany
+100020,2025-09-28,C00129,P00602,Blender,Home Appliances,3,50.65,France
+100149,2025-12-30,C00082,P00789,Standing Desk,Furniture,2,341.45,Italy
+100321,2025-01-26,C00145,P00256,Water Bottle,Sportswear,2,15.15,Switzerland
+100135,2025-03-14,C00037,P00120,Wireless Mouse,Electronics,1,20.29,Germany
+100088,2025-05-01,C00140,P00190,Bookshelf,Furniture,1,127.17,Italy
+100311,2025-05-16,C00108,P00612,Backpack,Accessories,2,44.69,Italy
+100036,2025-01-28,C00051,P00120,Wireless Mouse,Electronics,1,20.42,Germany
+100452,2025-06-25,C00234,P00901,Smartphone,Electronics,2,683.09,Germany
+100491,2025-02-17,C00185,P00678,Office Chair,Furniture,1,191.69,Belgium
+100429,2025-08-09,C00230,P00602,Blender,Home Appliances,2,48.57,Germany
+100254,2025-09-17,C00277,P00284,Pen Pack,Stationery,3,5.93,France
+100192,2025-07-05,C00051,P00815,Cookbook,Books,1,25.21,United Kingdom
+100116,2025-05-31,C00114,P00033,Running Shoes,Sportswear,2,80.38,Germany
+100365,2025-04-23,C00069,P00256,Water Bottle,Sportswear,1,15.09,Netherlands
+100074,2025-06-08,C00210,P00190,Bookshelf,Furniture,1,127.08,France
+100283,2025-08-14,C00198,P00190,Bookshelf,Furniture,5,129.97,Spain
+100243,2025-03-19,C00032,P00846,Dumbbell Set,Sportswear,1,59.43,United Kingdom
+100251,2025-12-17,C00270,P00311,Mechanical Keyboard,Electronics,2,89.24,Spain
+100082,2025-02-24,C00218,P00045,Tablet,Electronics,1,400.42,United States
+100113,2025-06-24,C00144,P00458,Air Fryer,Home Appliances,2,116.46,France
+100153,2025-03-11,C00036,P00678,Office Chair,Furniture,3,188.16,Switzerland
+100450,2025-08-26,C00257,P00560,USB-C Hub,Electronics,1,34.16,France
+100026,2025-06-07,C00123,P00120,Wireless Mouse,Electronics,1,19.48,Italy
+100386,2025-06-04,C00074,P00815,Cookbook,Books,2,24.65,Germany
+100094,2025-12-09,C00208,P00284,Pen Pack,Stationery,1,5.86,Spain
+100079,2025-05-01,C00159,P00045,Tablet,Electronics,3,389.1,France
+100172,2025-06-03,C00218,P00967,Notebook Set,Stationery,1,8.83,Switzerland
+100296,2025-02-07,C00232,P00234,Noise Cancelling Headphones,Electronics,3,146.28,Spain
+100161,2025-07-29,C00080,P00311,Mechanical Keyboard,Electronics,2,89.12,United States
+100329,2025-11-10,C00164,P00234,Noise Cancelling Headphones,Electronics,1,153.07,Italy
+100150,2025-02-28,C00237,P00087,27-inch Monitor,Electronics,2,256.48,France
+100485,2025-08-23,C00184,P00311,Mechanical Keyboard,Electronics,3,92.52,Germany
+100263,2025-09-20,C00076,P00714,Yoga Mat,Sportswear,1,30.56,United Kingdom
+100338,2025-09-27,C00193,P00190,Bookshelf,Furniture,4,130.25,Spain
+100500,2025-10-29,C00197,P00522,Desk Lamp,Furniture,4,24.45,Germany
+100052,2025-02-05,C00126,P00522,Desk Lamp,Furniture,1,25.05,Spain
+100004,2025-10-07,C00215,P00045,Tablet,Electronics,1,408.85,France
+100271,2025-09-13,C00275,P00452,Laptop,Electronics,2,810.48,Italy
+100126,2025-11-19,C00028,P00560,USB-C Hub,Electronics,1,34.58,Italy
+100081,2025-12-23,C00197,P00256,Water Bottle,Sportswear,1,15.16,France
+100164,2025-10-05,C00019,P00458,Air Fryer,Home Appliances,1,123.02,Belgium
+100021,2025-12-16,C00275,P00612,Backpack,Accessories,1,44.92,Belgium
+100466,2025-11-27,C00089,P00602,Blender,Home Appliances,1,49.05,France
+100165,2025-04-27,C00047,P00714,Yoga Mat,Sportswear,5,30.36,Netherlands
+100448,2025-06-19,C00221,P00087,27-inch Monitor,Electronics,1,250.15,France
+100229,2025-02-09,C00161,P00871,Vacuum Cleaner,Home Appliances,1,201.67,Germany
+100345,2025-02-10,C00178,P00846,Dumbbell Set,Sportswear,2,58.96,Netherlands
+100482,2025-07-12,C00232,P00311,Mechanical Keyboard,Electronics,2,87.79,United Kingdom
+100349,2025-03-12,C00003,P00602,Blender,Home Appliances,5,50.45,France
+100226,2025-05-11,C00149,P00190,Bookshelf,Furniture,1,129.45,Spain
+100014,2025-06-11,C00206,P00678,Office Chair,Furniture,1,190.76,United Kingdom
+100017,2025-10-27,C00220,P00871,Vacuum Cleaner,Home Appliances,1,205.96,France
+100209,2025-06-10,C00131,P00522,Desk Lamp,Furniture,4,24.95,Belgium
+100160,2025-02-21,C00226,P00087,27-inch Monitor,Electronics,2,253.33,Spain
+100342,2025-09-08,C00163,P00256,Water Bottle,Sportswear,1,15.26,United Kingdom
+100139,2025-10-22,C00011,P00612,Backpack,Accessories,2,44.72,France
+100114,2025-04-08,C00044,P00045,Tablet,Electronics,2,406.19,Spain
+100157,2025-05-03,C00293,P00033,Running Shoes,Sportswear,1,77.8,Portugal
+100413,2025-12-17,C00042,P00733,Novel - Fiction,Books,5,12.62,Belgium
+100087,2025-09-24,C00249,P00733,Novel - Fiction,Books,1,13.16,Spain
+100056,2025-05-16,C00259,P00256,Water Bottle,Sportswear,1,14.59,United Kingdom
+100369,2025-10-02,C00077,P00234,Noise Cancelling Headphones,Electronics,1,146.54,Italy
+100409,2025-01-07,C00009,P00399,Coffee Maker,Home Appliances,2,88.84,Italy
+100159,2025-03-19,C00254,P00120,Wireless Mouse,Electronics,1,19.79,United States
+100327,2025-09-14,C00021,P00120,Wireless Mouse,Electronics,1,20.35,Netherlands
+100273,2025-12-07,C00044,P00399,Coffee Maker,Home Appliances,5,90.13,France
+100417,2025-10-18,C00244,P00678,Office Chair,Furniture,1,194.84,France
+100294,2025-10-15,C00061,P00678,Office Chair,Furniture,3,186.74,Netherlands
+100195,2025-01-26,C00171,P00045,Tablet,Electronics,5,392.92,Portugal
+100124,2025-10-21,C00146,P00256,Water Bottle,Sportswear,2,15.41,Germany
+100320,2025-07-21,C00259,P00846,Dumbbell Set,Sportswear,4,59.46,France
+100142,2025-07-29,C00171,P00190,Bookshelf,Furniture,2,128.66,Switzerland
+100042,2025-08-21,C00147,P00714,Yoga Mat,Sportswear,2,30.5,Netherlands
+100011,2025-12-16,C00037,P00458,Air Fryer,Home Appliances,2,118.15,Italy
+100358,2025-10-18,C00099,P00234,Noise Cancelling Headphones,Electronics,2,149.14,Belgium
+100070,2025-08-12,C00262,P00087,27-inch Monitor,Electronics,1,246.31,Italy
+100352,2025-01-20,C00090,P00714,Yoga Mat,Sportswear,3,30.75,France
+100096,2025-02-12,C00220,P00560,USB-C Hub,Electronics,3,34.49,France
+100354,2025-01-20,C00005,P00789,Standing Desk,Furniture,2,360.13,France
+100176,2025-04-28,C00181,P00045,Tablet,Electronics,2,404.26,Belgium
+100217,2025-01-15,C00093,P00678,Office Chair,Furniture,2,188.16,Germany
+100486,2025-04-19,C00254,P00678,Office Chair,Furniture,1,190.53,France
+100028,2025-10-09,C00085,P00678,Office Chair,Furniture,2,195.28,Italy
+100269,2025-11-08,C00271,P00714,Yoga Mat,Sportswear,1,29.63,France
+100401,2025-08-02,C00152,P00560,USB-C Hub,Electronics,1,35.14,France
+100402,2025-05-06,C00256,P00602,Blender,Home Appliances,2,49.26,Belgium
+100057,2025-11-21,C00217,P00678,Office Chair,Furniture,1,185.78,Germany
+100125,2025-05-10,C00245,P00087,27-inch Monitor,Electronics,3,243.6,Germany
+100119,2025-06-11,C00062,P00284,Pen Pack,Stationery,2,5.88,Netherlands
+100258,2025-10-01,C00123,P00789,Standing Desk,Furniture,4,358.47,Portugal
+100442,2025-05-30,C00036,P00714,Yoga Mat,Sportswear,2,29.64,France
+100443,2025-05-10,C00079,P00967,Notebook Set,Stationery,1,8.96,Germany
+100397,2025-10-10,C00165,P00612,Backpack,Accessories,1,46.4,Spain
+100066,2025-04-27,C00115,P00452,Laptop,Electronics,2,789.36,Germany
+100260,2025-05-25,C00196,P00399,Coffee Maker,Home Appliances,2,91.7,United States
+100340,2025-12-21,C00136,P00458,Air Fryer,Home Appliances,2,118.4,United States
+100332,2025-10-26,C00158,P00284,Pen Pack,Stationery,3,6.02,Belgium
+100069,2025-05-16,C00020,P00087,27-inch Monitor,Electronics,2,254.29,Germany
+100331,2025-06-03,C00244,P00452,Laptop,Electronics,1,823.02,Belgium
+100099,2025-06-29,C00115,P00733,Novel - Fiction,Books,1,12.63,United States
+100298,2025-06-03,C00081,P00967,Notebook Set,Stationery,2,8.81,Netherlands
+100480,2025-05-22,C00065,P00967,Notebook Set,Stationery,3,9.1,France
+100361,2025-08-17,C00137,P00190,Bookshelf,Furniture,1,126.18,Netherlands
+100138,2025-08-10,C00166,P00458,Air Fryer,Home Appliances,1,123.32,France
+100297,2025-12-16,C00164,P00815,Cookbook,Books,1,25.05,France
+100227,2025-03-08,C00195,P00602,Blender,Home Appliances,2,50.99,Spain
+100314,2025-08-01,C00248,P00846,Dumbbell Set,Sportswear,1,59.32,Italy
+100224,2025-12-14,C00250,P00399,Coffee Maker,Home Appliances,2,89.42,France
+100047,2025-10-19,C00127,P00871,Vacuum Cleaner,Home Appliances,2,199.02,Italy
+100128,2025-04-26,C00268,P00033,Running Shoes,Sportswear,2,81.72,Spain
+100303,2025-06-12,C00038,P00846,Dumbbell Set,Sportswear,2,58.65,Spain
+100041,2025-03-26,C00195,P00452,Laptop,Electronics,5,813.63,France
+100437,2025-11-30,C00070,P00789,Standing Desk,Furniture,1,343.71,United States
+100231,2025-11-13,C00236,P00967,Notebook Set,Stationery,4,9.18,France
+100370,2025-04-16,C00299,P00256,Water Bottle,Sportswear,1,15.27,Spain
+100180,2025-07-07,C00272,P00399,Coffee Maker,Home Appliances,4,88.68,Switzerland
+100064,2025-07-30,C00128,P00678,Office Chair,Furniture,1,188.65,Netherlands
+100223,2025-05-20,C00111,P00612,Backpack,Accessories,2,44.92,Germany
+100408,2025-12-08,C00248,P00815,Cookbook,Books,2,25.07,France
+100242,2025-01-22,C00231,P00871,Vacuum Cleaner,Home Appliances,2,199.7,Germany
+100173,2025-07-16,C00248,P00087,27-inch Monitor,Electronics,1,251.11,Italy
+100133,2025-12-18,C00120,P00678,Office Chair,Furniture,3,191.83,Belgium
+100362,2025-12-01,C00185,P00967,Notebook Set,Stationery,1,8.97,Belgium
+100092,2025-06-02,C00200,P00714,Yoga Mat,Sportswear,2,30.53,Netherlands
+100412,2025-07-11,C00208,P00846,Dumbbell Set,Sportswear,2,59.0,Canada
+100022,2025-08-11,C00081,P00846,Dumbbell Set,Sportswear,2,60.78,Netherlands
+100104,2025-07-12,C00204,P00967,Notebook Set,Stationery,1,9.17,Italy
+100280,2025-06-11,C00159,P00399,Coffee Maker,Home Appliances,1,89.85,Portugal
+100265,2025-02-11,C00192,P00045,Tablet,Electronics,1,408.13,United Kingdom
+100489,2025-03-22,C00226,P00846,Dumbbell Set,Sportswear,1,58.92,United States
+100422,2025-02-10,C00257,P00284,Pen Pack,Stationery,5,5.97,France
+100237,2025-10-16,C00297,P00846,Dumbbell Set,Sportswear,2,60.5,United Kingdom
+100140,2025-03-31,C00241,P00399,Coffee Maker,Home Appliances,2,88.27,United Kingdom
+100268,2025-02-10,C00010,P00678,Office Chair,Furniture,1,195.01,France
+100498,2025-08-14,C00180,P00284,Pen Pack,Stationery,1,6.14,Netherlands
+100063,2025-03-25,C00091,P00714,Yoga Mat,Sportswear,1,29.69,Netherlands
+100487,2025-03-08,C00290,P00256,Water Bottle,Sportswear,3,15.23,United Kingdom
+100210,2025-02-16,C00044,P00311,Mechanical Keyboard,Electronics,1,89.3,Netherlands
+100230,2025-05-29,C00059,P00033,Running Shoes,Sportswear,1,81.44,Germany
+100146,2025-04-07,C00266,P00522,Desk Lamp,Furniture,2,24.9,Spain
+100171,2025-05-28,C00280,P00234,Noise Cancelling Headphones,Electronics,1,154.38,United States
+100377,2025-12-01,C00179,P00087,27-inch Monitor,Electronics,1,250.42,Italy
+100001,2025-11-24,C00058,P00452,Laptop,Electronics,2,782.69,France
+100339,2025-10-07,C00182,P00815,Cookbook,Books,3,25.2,Netherlands
+100045,2025-09-29,C00081,P00120,Wireless Mouse,Electronics,4,19.61,France
+100127,2025-05-08,C00061,P00602,Blender,Home Appliances,3,50.86,Italy
+100343,2025-05-21,C00148,P00087,27-inch Monitor,Electronics,2,255.93,Italy
+100374,2025-01-31,C00036,P00256,Water Bottle,Sportswear,1,15.23,Germany
+100106,2025-03-03,C00290,P00120,Wireless Mouse,Electronics,1,19.83,Spain
+100010,2025-07-06,C00084,P00522,Desk Lamp,Furniture,1,25.29,Belgium
+100461,2025-11-24,C00161,P00458,Air Fryer,Home Appliances,1,117.21,Germany
+100295,2025-11-10,C00147,P00967,Notebook Set,Stationery,4,8.79,Spain
+100154,2025-09-17,C00137,P00452,Laptop,Electronics,1,804.16,France
+100328,2025-09-23,C00234,P00560,USB-C Hub,Electronics,2,34.63,Spain
+100198,2025-05-09,C00090,P00087,27-inch Monitor,Electronics,2,242.71,France
+100484,2025-06-17,C00298,P00452,Laptop,Electronics,3,780.46,Switzerland
+100147,2025-01-27,C00105,P00678,Office Chair,Furniture,2,189.28,United Kingdom
+100121,2025-05-25,C00052,P00901,Smartphone,Electronics,1,691.69,Germany
+100244,2025-02-13,C00259,P00733,Novel - Fiction,Books,1,12.94,France
+100368,2025-10-16,C00058,P00120,Wireless Mouse,Electronics,3,19.63,United Kingdom
+100155,2025-12-04,C00251,P00560,USB-C Hub,Electronics,1,34.64,Spain
+100406,2025-01-25,C00004,P00714,Yoga Mat,Sportswear,1,29.21,Belgium
+100367,2025-05-07,C00042,P00399,Coffee Maker,Home Appliances,1,87.71,Netherlands
+100212,2025-03-04,C00211,P00522,Desk Lamp,Furniture,3,24.87,United States
+100115,2025-12-20,C00244,P00733,Novel - Fiction,Books,2,12.61,Spain
+100404,2025-10-07,C00251,P00234,Noise Cancelling Headphones,Electronics,4,151.27,Italy
+100031,2025-10-29,C00284,P00045,Tablet,Electronics,2,404.98,France
+100062,2025-10-14,C00209,P00458,Air Fryer,Home Appliances,2,118.09,United Kingdom
+100264,2025-06-28,C00014,P00714,Yoga Mat,Sportswear,1,29.51,Spain
+100044,2025-10-05,C00032,P00284,Pen Pack,Stationery,1,5.98,France
+100460,2025-04-11,C00235,P00087,27-inch Monitor,Electronics,1,250.41,Switzerland
+100464,2025-04-04,C00192,P00967,Notebook Set,Stationery,1,9.04,Germany
+100095,2025-11-15,C00274,P00452,Laptop,Electronics,4,807.81,Italy
+100261,2025-11-06,C00071,P00678,Office Chair,Furniture,1,188.52,Spain
+100325,2025-05-24,C00061,P00560,USB-C Hub,Electronics,5,35.61,Germany
+100425,2025-07-02,C00284,P00033,Running Shoes,Sportswear,1,80.76,Belgium
+100005,2025-03-23,C00217,P00190,Bookshelf,Furniture,1,132.05,France
+100497,2025-03-10,C00074,P00311,Mechanical Keyboard,Electronics,2,90.8,France
+100272,2025-05-30,C00220,P00452,Laptop,Electronics,2,795.99,France
+100098,2025-08-04,C00130,P00311,Mechanical Keyboard,Electronics,2,87.57,Netherlands
+100435,2025-09-11,C00101,P00846,Dumbbell Set,Sportswear,1,61.61,Germany
+100213,2025-01-27,C00148,P00458,Air Fryer,Home Appliances,1,120.04,France
+100058,2025-05-15,C00083,P00284,Pen Pack,Stationery,1,6.01,Netherlands
+100451,2025-08-01,C00044,P00087,27-inch Monitor,Electronics,3,247.72,Netherlands
+100270,2025-01-25,C00123,P00714,Yoga Mat,Sportswear,2,29.2,Belgium
+100102,2025-07-08,C00086,P00458,Air Fryer,Home Appliances,2,117.21,Netherlands
+100394,2025-10-28,C00287,P00901,Smartphone,Electronics,2,692.97,Switzerland
+100179,2025-06-17,C00213,P00234,Noise Cancelling Headphones,Electronics,1,153.38,Portugal
+100232,2025-05-05,C00224,P00871,Vacuum Cleaner,Home Appliances,1,204.44,France
+100196,2025-10-11,C00107,P00871,Vacuum Cleaner,Home Appliances,1,197.93,Switzerland
+100158,2025-08-31,C00196,P00033,Running Shoes,Sportswear,5,80.72,Portugal
+100353,2025-07-23,C00254,P00234,Noise Cancelling Headphones,Electronics,4,153.82,United States
+100375,2025-11-25,C00216,P00522,Desk Lamp,Furniture,5,25.54,Germany
+100395,2025-01-08,C00109,P00901,Smartphone,Electronics,4,720.97,France
+100276,2025-05-04,C00054,P00612,Backpack,Accessories,2,44.98,Netherlands
+100075,2025-08-04,C00195,P00815,Cookbook,Books,2,25.09,France
+100097,2025-06-17,C00109,P00846,Dumbbell Set,Sportswear,1,59.55,Netherlands
+100107,2025-09-17,C00175,P00452,Laptop,Electronics,3,781.06,Portugal
+100418,2025-10-06,C00289,P00815,Cookbook,Books,1,24.71,United Kingdom
+100018,2025-09-18,C00253,P00311,Mechanical Keyboard,Electronics,3,88.12,Switzerland
+100315,2025-06-13,C00177,P00033,Running Shoes,Sportswear,1,80.29,Germany
+100424,2025-06-17,C00016,P00733,Novel - Fiction,Books,1,12.98,Canada
+100024,2025-11-24,C00260,P00458,Air Fryer,Home Appliances,1,117.55,Germany
+100178,2025-08-14,C00018,P00871,Vacuum Cleaner,Home Appliances,1,204.91,France
+100382,2025-04-16,C00035,P00087,27-inch Monitor,Electronics,2,252.57,Spain
+100293,2025-05-23,C00128,P00087,27-inch Monitor,Electronics,1,250.26,France
+100025,2025-09-29,C00001,P00458,Air Fryer,Home Appliances,1,123.08,France
+100366,2025-08-01,C00282,P00256,Water Bottle,Sportswear,3,15.28,Portugal
+100360,2025-03-13,C00245,P00190,Bookshelf,Furniture,4,129.08,France
+100185,2025-11-23,C00191,P00087,27-inch Monitor,Electronics,2,251.78,Spain
+100453,2025-12-23,C00232,P00190,Bookshelf,Furniture,1,131.63,France
+100305,2025-01-29,C00064,P00399,Coffee Maker,Home Appliances,1,89.03,France
+100355,2025-05-26,C00233,P00733,Novel - Fiction,Books,2,13.33,Spain
+100458,2025-07-19,C00003,P00967,Notebook Set,Stationery,1,9.1,France
+100372,2025-12-11,C00158,P00284,Pen Pack,Stationery,1,5.81,France
+100462,2025-06-30,C00235,P00458,Air Fryer,Home Appliances,1,122.15,Belgium
+100145,2025-07-26,C00264,P00452,Laptop,Electronics,2,795.83,Italy
+100281,2025-01-19,C00098,P00789,Standing Desk,Furniture,1,357.67,Portugal
+100336,2025-12-20,C00105,P00714,Yoga Mat,Sportswear,2,29.94,Italy
+100071,2025-12-29,C00224,P00452,Laptop,Electronics,2,808.96,Portugal
+100348,2025-04-30,C00027,P00087,27-inch Monitor,Electronics,1,244.0,Netherlands
+100253,2025-04-09,C00116,P00560,USB-C Hub,Electronics,1,35.59,France
+100471,2025-08-23,C00290,P00284,Pen Pack,Stationery,3,5.99,Spain
+100043,2025-12-05,C00250,P00560,USB-C Hub,Electronics,1,34.06,France
+100389,2025-07-12,C00095,P00612,Backpack,Accessories,2,45.23,France
+100117,2025-08-31,C00284,P00399,Coffee Maker,Home Appliances,1,90.26,Canada
+100246,2025-07-18,C00210,P00612,Backpack,Accessories,1,46.79,Italy
+100225,2025-11-03,C00029,P00452,Laptop,Electronics,1,812.82,United States
+100299,2025-07-05,C00261,P00045,Tablet,Electronics,1,391.32,France
+100319,2025-09-21,C00240,P00256,Water Bottle,Sportswear,3,14.62,Spain
+100175,2025-10-17,C00026,P00458,Air Fryer,Home Appliances,2,122.89,Switzerland
+100247,2025-11-28,C00172,P00311,Mechanical Keyboard,Electronics,1,89.38,Italy
+100396,2025-09-03,C00125,P00967,Notebook Set,Stationery,2,9.21,France
+100009,2025-05-29,C00041,P00045,Tablet,Electronics,3,398.87,Germany
+100174,2025-12-25,C00152,P00452,Laptop,Electronics,5,789.17,Belgium
+100290,2025-01-18,C00065,P00311,Mechanical Keyboard,Electronics,1,89.25,Belgium
+100473,2025-01-22,C00226,P00602,Blender,Home Appliances,1,50.7,Spain
+100496,2025-02-22,C00053,P00190,Bookshelf,Furniture,1,129.08,France
+100183,2025-07-23,C00286,P00522,Desk Lamp,Furniture,1,24.64,Germany
+100055,2025-05-20,C00145,P00458,Air Fryer,Home Appliances,1,121.34,
+100326,2025-06-23,C00286,P00522,Desk Lamp,Furniture,3,25.0,France
+100262,2025-02-22,C00265,P00087,27-inch Monitor,Electronics,1,246.58,Netherlands
+100151,2025-05-30,C00261,P00967,Notebook Set,Stationery,1,9.25,Switzerland
+100182,2025-02-08,C00073,P00612,Backpack,Accessories,4,46.61,Switzerland
+100441,2025-10-09,C00014,P00284,Pen Pack,Stationery,2,5.97,Netherlands
+100414,2025-07-27,C00195,P00033,Running Shoes,Sportswear,2,77.64,France
+100169,2025-12-16,C00124,P00256,Water Bottle,Sportswear,4,14.96,France
+100257,2025-05-02,C00228,P00458,Air Fryer,Home Appliances,1,119.62,Netherlands
+100186,2025-10-15,C00168,P00458,Air Fryer,Home Appliances,1,122.32,France
+100039,2025-01-26,C00277,P00452,Laptop,Electronics,4,,United Kingdom
+100310,2025-10-16,C00022,P00452,Laptop,Electronics,1,813.0,United States
+100289,2025-12-14,C00082,P00452,Laptop,Electronics,1,813.49,Italy
+100143,2025-12-22,C00254,P00789,Standing Desk,Furniture,2,355.46,Germany
+100049,2025-06-10,C00123,P00678,Office Chair,Furniture,1,187.71,Belgium
+100089,2025-04-29,C00197,P00967,Notebook Set,Stationery,1,8.94,France
+100351,2025-11-27,C00031,P00612,Backpack,Accessories,1,46.09,Italy
+100221,2025-11-02,C00044,P00120,Wireless Mouse,Electronics,1,19.45,Netherlands
+100103,2025-03-25,C00160,P00087,27-inch Monitor,Electronics,2,251.13,United Kingdom
+100156,2025-10-06,C00194,P00846,Dumbbell Set,Sportswear,4,61.72,Switzerland
+100199,2025-05-02,C00166,P00452,Laptop,Electronics,1,811.59,France
+100479,2025-09-21,C00049,P00560,USB-C Hub,Electronics,4,35.87,Portugal
+100391,2025-10-13,C00272,P00560,USB-C Hub,Electronics,1,34.63,France
+100252,2025-07-05,C00159,P00234,Noise Cancelling Headphones,Electronics,4,152.39,Germany
+100350,2025-09-01,C00245,P00733,Novel - Fiction,Books,1,12.85,United States
+100035,2025-02-18,C00050,P00815,Cookbook,Books,1,24.94,Spain
+100463,2025-11-11,C00044,P00815,Cookbook,Books,1,24.7,France
+100016,2025-03-15,C00136,P00560,USB-C Hub,Electronics,1,34.49,Italy
+100457,2025-07-22,C00015,P00284,Pen Pack,Stationery,2,6.02,France
+100235,2025-11-27,C00076,P00045,Tablet,Electronics,1,392.15,France
+100323,2025-07-07,C00207,P00522,Desk Lamp,Furniture,1,25.08,France
+100084,2025-08-26,C00272,P00602,Blender,Home Appliances,2,51.16,United States
+100400,2025-04-24,C00075,P00452,Laptop,Electronics,1,803.79,United Kingdom
+100433,2025-06-04,C00138,P00256,Water Bottle,Sportswear,1,14.79,France
+100477,2025-04-16,C00106,P00120,Wireless Mouse,Electronics,2,20.11,Italy
+100266,2025-11-29,C00172,P00560,USB-C Hub,Electronics,1,35.68,France
+100255,2025-11-13,C00068,P00458,Air Fryer,Home Appliances,1,122.38,France
+100488,2025-01-24,C00051,P00733,Novel - Fiction,Books,3,12.7,Spain
+100077,2025-11-07,C00165,P00846,Dumbbell Set,Sportswear,1,60.03,Belgium
+100392,2025-02-10,C00231,P00522,Desk Lamp,Furniture,1,24.53,Netherlands
+100083,2025-01-26,C00286,P00045,Tablet,Electronics,4,391.19,France
+100379,2025-10-06,C00218,P00602,Blender,Home Appliances,1,49.87,France
+100459,2025-02-02,C00296,P00087,27-inch Monitor,Electronics,3,247.98,Italy
+100240,2025-08-25,C00232,P00120,Wireless Mouse,Electronics,1,19.48,Switzerland
+100163,2025-10-01,C00195,P00190,Bookshelf,Furniture,2,129.9,United Kingdom
+100053,2025-06-04,C00271,P00452,Laptop,Electronics,2,820.71,Italy
+100447,2025-11-28,C00023,P00871,Vacuum Cleaner,Home Appliances,5,198.79,Belgium
+100129,2025-08-08,C00157,P00871,Vacuum Cleaner,Home Appliances,2,202.87,Italy
+100211,2025-03-08,C00285,P00120,Wireless Mouse,Electronics,2,19.79,Italy
+100304,2025-10-10,C00094,P00612,Backpack,Accessories,4,47.12,Spain
+100373,2025-04-22,C00297,P00311,Mechanical Keyboard,Electronics,1,87.63,Germany
+100449,2025-09-23,C00286,P00871,Vacuum Cleaner,Home Appliances,2,198.48,France
+100411,2025-04-09,C00270,P00678,Office Chair,Furniture,3,188.81,France
+100472,2025-10-21,C00059,P00678,Office Chair,Furniture,3,188.47,Portugal
+100495,2025-03-03,C00217,P00967,Notebook Set,Stationery,1,8.93,France
+100203,2025-09-03,C00206,P00714,Yoga Mat,Sportswear,2,30.73,Spain
+100407,2025-03-19,C00005,P00901,Smartphone,Electronics,2,704.94,Germany
+100483,2025-09-21,C00143,P00967,Notebook Set,Stationery,4,9.23,Germany
+100006,2025-02-22,C00048,P00033,Running Shoes,Sportswear,1,80.49,Switzerland
+100292,2025-08-16,C00040,P00871,Vacuum Cleaner,Home Appliances,1,197.76,Germany
+100324,2025-07-05,C00284,P00789,Standing Desk,Furniture,1,355.54,Spain
+100390,2025-12-29,C00074,P00846,Dumbbell Set,Sportswear,4,61.67,Italy
+100416,2025-02-18,C00271,P00120,Wireless Mouse,Electronics,1,20.22,United Kingdom
+100220,2025-06-24,C00081,P00522,Desk Lamp,Furniture,1,25.65,Germany
+100080,2025-09-01,C00038,P00846,Dumbbell Set,Sportswear,1,58.89,Belgium
+100206,2025-05-31,C00233,P00399,Coffee Maker,Home Appliances,2,91.08,France
+100008,2025-05-31,C00186,P00871,Vacuum Cleaner,Home Appliances,1,201.93,France
+100493,2025-12-02,C00047,P00967,Notebook Set,Stationery,1,8.76,France
+100034,2025-10-20,C00296,P00256,Water Bottle,Sportswear,1,14.91,Spain
+100419,2025-04-17,C00074,P00612,Backpack,Accessories,3,47.17,Portugal
+100027,2025-09-06,C00036,P00612,Backpack,Accessories,2,46.43,France
+100467,2025-08-19,C00028,P00522,Desk Lamp,Furniture,4,24.53,Spain
+100040,2025-03-27,C00209,P00256,Water Bottle,Sportswear,2,15.35,Switzerland
+100162,2025-12-21,C00204,P00733,Novel - Fiction,Books,1,13.13,Germany
+100193,2025-02-01,C00204,P00678,Office Chair,Furniture,1,193.96,France
+100141,2025-10-27,C00224,P00733,Novel - Fiction,Books,3,12.97,United States
+100444,2025-11-03,C00246,P00871,Vacuum Cleaner,Home Appliances,1,205.03,Spain
+100455,2025-05-05,C00265,P00234,Noise Cancelling Headphones,Electronics,2,149.33,Germany
+100393,2025-05-18,C00194,P00815,Cookbook,Books,2,24.35,France
+100278,2025-08-26,C00246,P00733,Novel - Fiction,Books,1,13.16,France
+100454,2025-01-12,C00176,P00733,Novel - Fiction,Books,1,13.33,Portugal
+100378,2025-04-25,C00002,P00612,Backpack,Accessories,1,46.47,France
+100282,2025-06-19,C00140,P00087,27-inch Monitor,Electronics,3,248.49,Spain
+100330,2025-10-31,C00173,P00399,Coffee Maker,Home Appliances,3,91.12,Italy
+100059,2025-02-27,C00039,P00967,Notebook Set,Stationery,4,9.17,Italy
+100313,2025-12-17,C00208,P00789,Standing Desk,Furniture,2,342.81,Belgium
+100168,2025-10-17,C00093,P00234,Noise Cancelling Headphones,Electronics,1,148.93,Italy
+100287,2025-08-17,C00022,P00284,Pen Pack,Stationery,3,6.17,Germany
+100439,2025-09-09,C00295,P00045,Tablet,Electronics,1,406.85,France
+100038,2025-08-25,C00128,P00311,Mechanical Keyboard,Electronics,1,90.26,Switzerland
+100188,2025-06-05,C00253,P00087,27-inch Monitor,Electronics,1,244.53,United Kingdom
+100267,2025-12-23,C00072,P00612,Backpack,Accessories,2,44.62,Spain
+100335,2025-12-25,C00057,P00901,Smartphone,Electronics,1,685.35,Germany
+100144,2025-01-19,C00233,P00311,Mechanical Keyboard,Electronics,1,92.53,Germany
+100445,2025-12-21,C00215,P00602,Blender,Home Appliances,1,50.59,United States
+100279,2025-08-23,C00019,P00789,Standing Desk,Furniture,1,358.09,Portugal
+100060,2025-10-26,C00283,P00560,USB-C Hub,Electronics,1,34.71,France
+100494,2025-10-31,C00116,P00399,Coffee Maker,Home Appliances,2,91.05,France
+100478,2025-03-28,C00166,P00967,Notebook Set,Stationery,1,9.23,Italy
+100050,2025-06-11,C00038,P00452,Laptop,Electronics,2,823.8,Canada
+100375,2025-11-25,C00216,P00522,Desk Lamp,Furniture,5,25.54,Germany
+100426,2025-02-13,C00152,P00045,Tablet,Electronics,2,391.69,France
+100420,2025-06-03,C00084,P00871,Vacuum Cleaner,Home Appliances,1,198.66,Switzerland
+100300,2025-09-10,C00014,P00522,Desk Lamp,Furniture,2,25.45,Germany
+100190,2025-10-28,C00080,P00714,Yoga Mat,Sportswear,2,30.2,Switzerland
+100166,2025-02-21,C00228,P00234,Noise Cancelling Headphones,Electronics,2,145.9,United Kingdom
+100301,2025-10-10,C00067,P00458,Air Fryer,Home Appliances,3,119.26,France
+100202,2025-12-04,C00267,P00789,Standing Desk,Furniture,2,340.77,United States
+100306,2025-12-30,C00116,P00522,Desk Lamp,Furniture,4,24.67,Spain
+100233,2025-06-23,C00114,P00190,Bookshelf,Furniture,3,131.03,France
+100214,2025-03-21,C00247,P00045,Tablet,Electronics,3,401.34,Germany
+100022,2025-08-11,C00081,P00846,Dumbbell Set,Sportswear,1,60.78,Netherlands
+100334,2025-09-26,C00195,P00560,USB-C Hub,Electronics,3,35.14,France
+100197,2025-03-17,C00002,P00678,Office Chair,Furniture,3,185.77,France
+100440,2025-07-06,C00059,P00871,Vacuum Cleaner,Home Appliances,1,196.15,Canada
+100427,2025-12-31,C00079,P00284,Pen Pack,Stationery,1,5.84,Germany
+100381,2025-12-05,C00215,P00458,Air Fryer,Home Appliances,3,116.5,United Kingdom
+100112,2025-01-15,C00254,P00190,Bookshelf,Furniture,1,132.31,France
+100307,2025-02-10,C00129,P00901,Smartphone,Electronics,2,684.25,Italy
+100346,2025-10-03,C00139,P00602,Blender,Home Appliances,2,50.34,France
+100120,2025-04-21,C00248,P00678,Office Chair,Furniture,2,190.27,United States
+100002,2025-02-22,C00280,P00311,Mechanical Keyboard,Electronics,2,87.8,France
+100475,2025-02-14,C00225,P00087,27-inch Monitor,Electronics,3,254.65,France
+100216,2025-11-15,C00286,P00452,Laptop,Electronics,2,809.28,Belgium
+100364,2025-06-09,C00061,P00733,Novel - Fiction,Books,4,13.08,France
+100072,2025-12-10,C00101,P00522,Desk Lamp,Furniture,1,25.62,United States
+100137,2025-05-20,C00257,P00602,Blender,Home Appliances,2,48.61,France
+100248,2025-05-10,C00077,P00190,Bookshelf,Furniture,1,133.24,Belgium
+100204,2025-02-07,C00042,P00190,Bookshelf,Furniture,2,128.24,France
+100288,2025-05-21,C00030,P00311,Mechanical Keyboard,Electronics,2,90.06,Germany
+100003,2025-04-30,C00259,P00458,Air Fryer,Home Appliances,1,121.07,France
+100284,2025-09-23,C00137,P00311,Mechanical Keyboard,Electronics,2,90.54,France
+100474,2025-12-01,C00127,P00789,Standing Desk,Furniture,3,345.01,France
+100318,2025-03-23,C00168,P00871,Vacuum Cleaner,Home Appliances,2,195.9,France
+100148,2025-12-24,C00249,P00087,27-inch Monitor,Electronics,1,254.48,Belgium
+100030,2025-08-13,C00265,P00846,Dumbbell Set,Sportswear,1,59.41,France
+100405,2025-01-31,C00269,P00120,Wireless Mouse,Electronics,3,20.37,France
+100015,2025-06-11,C00109,P00733,Novel - Fiction,Books,2,13.1,United Kingdom
+100286,2025-06-06,C00229,P00458,Air Fryer,Home Appliances,2,119.59,France
+100256,2025-11-16,C00085,P00284,Pen Pack,Stationery,1,6.05,Germany
+100341,2025-06-02,C00116,P00789,Standing Desk,Furniture,3,353.98,Netherlands
+100228,2025-07-01,C00037,P00033,Running Shoes,Sportswear,3,77.68,France
+100317,2025-01-26,C00149,P00033,Running Shoes,Sportswear,3,82.21,Germany
+100078,2025-03-28,C00044,P00789,Standing Desk,Furniture,2,346.53,Belgium
+100415,2025-03-29,C00043,P00256,Water Bottle,Sportswear,3,14.84,Belgium
+100218,2025-01-04,C00093,P00560,USB-C Hub,Electronics,2,34.24,Germany
+100200,2025-09-27,C00059,P00284,Pen Pack,Stationery,1,5.94,Spain
+100132,2025-01-17,C00119,P00789,Standing Desk,Furniture,2,349.02,Netherlands
+100384,2025-01-29,C00072,P00399,Coffee Maker,Home Appliances,5,92.24,France
+100434,2025-06-03,C00248,P00311,Mechanical Keyboard,Electronics,1,91.18,United States
+100152,2025-05-05,C00234,P00602,Blender,Home Appliances,1,50.29,France
+100085,2025-11-10,C00259,P00714,Yoga Mat,Sportswear,3,30.7,Italy
+100398,2025-06-07,C00134,P00522,Desk Lamp,Furniture,2,24.39,Spain
+100222,2025-02-11,C00140,P00846,Dumbbell Set,Sportswear,2,59.78,Spain
+100136,2025-10-19,C00148,P00846,Dumbbell Set,Sportswear,1,60.71,Belgium
+100110,2025-08-12,C00138,P00190,Bookshelf,Furniture,3,126.77,Switzerland
+100032,2025-01-31,C00118,P00311,Mechanical Keyboard,Electronics,4,87.67,Switzerland
+100490,2025-12-19,C00068,P00733,Novel - Fiction,Books,1,13.28,Switzerland
+100105,2025-05-05,C00053,P00967,Notebook Set,Stationery,3,9.04,Switzerland
+100187,2025-12-25,C00155,P00733,Novel - Fiction,Books,1,13.34,France
+100259,2025-04-10,C00189,P00815,Cookbook,Books,4,24.93,Canada
+100291,2025-10-18,C00017,P00458,Air Fryer,Home Appliances,1,119.06,Spain
+100170,2025-05-11,C00236,P00678,Office Chair,Furniture,2,189.59,United Kingdom
+100470,2025-04-23,C00150,P00120,Wireless Mouse,Electronics,1,19.59,Italy
+100029,2025-10-04,C00103,P00967,Notebook Set,Stationery,1,9.07,Canada
+100067,2025-02-05,C00143,P00522,Desk Lamp,Furniture,2,25.71,Germany
+100073,2025-11-16,C00161,P00815,Cookbook,Books,3,24.69,Netherlands
+100359,2025-08-07,C00264,P00190,Bookshelf,Furniture,1,127.53,Belgium
+100249,2025-06-08,C00201,P00560,USB-C Hub,Electronics,2,34.59,United Kingdom
+100033,2025-05-02,C00143,P00815,Cookbook,Books,2,25.32,Italy
+100356,2025-09-16,C00240,P00678,Office Chair,Furniture,1,186.14,France
+100388,2025-06-26,C00196,P00399,Coffee Maker,Home Appliances,1,88.1,Germany
+100051,2025-02-07,C00276,P00901,Smartphone,Electronics,2,693.65,France
+100274,2025-09-17,C00260,P00602,Blender,Home Appliances,1,48.62,Switzerland
+100431,2025-01-07,C00150,P00714,Yoga Mat,Sportswear,1,30.71,France
+100250,2025-07-12,C00169,P00560,USB-C Hub,Electronics,2,35.49,Portugal
+100432,2025-05-05,C00293,P00399,Coffee Maker,Home Appliances,1,88.04,Germany
+100403,2025-09-08,C00252,P00846,Dumbbell Set,Sportswear,1,58.8,Portugal
+100134,2025-04-12,C00218,P00087,27-inch Monitor,Electronics,2,256.12,Belgium
+100344,2025-07-22,C00177,P00612,Backpack,Accessories,3,45.4,France
+100019,2025-03-23,C00217,P00458,Air Fryer,Home Appliances,1,123.56,Germany
+100238,2025-11-16,C00166,P00733,Novel - Fiction,Books,1,12.97,Spain
+100371,2025-08-21,C00068,P00399,Coffee Maker,Home Appliances,1,90.31,Italy
+100090,2025-06-19,C00278,P00846,Dumbbell Set,Sportswear,1,59.7,France
+100333,2025-05-16,C00297,P00871,Vacuum Cleaner,Home Appliances,1,199.76,France
+100118,2025-06-30,C00233,P00678,Office Chair,Furniture,1,192.51,France
+100465,2025-10-22,C00197,P00714,Yoga Mat,Sportswear,1,30.34,Belgium
+100061,2025-01-21,C00184,P00901,Smartphone,Electronics,2,693.84,Belgium
+100012,2025-08-25,C00195,P00678,Office Chair,Furniture,5,190.64,Belgium
+100130,2025-04-17,C00109,P00678,Office Chair,Furniture,2,186.27,France
+100109,2025-11-30,C00139,P00458,Air Fryer,Home Appliances,3,119.87,Italy
+100122,2025-12-29,C00274,P00560,USB-C Hub,Electronics,1,35.1,United States
+100007,2025-01-23,C00236,P00602,Blender,Home Appliances,1,48.73,United Kingdom
+100492,2025-01-27,C00203,P00733,Novel - Fiction,Books,1,12.78,Belgium
+100167,2025-01-29,C00151,P00522,Desk Lamp,Furniture,1,25.04,France
+100076,2025-07-27,C00281,P00452,Laptop,Electronics,1,813.71,France
+100499,2025-11-12,C00227,P00901,Smartphone,Electronics,1,710.59,France
+100100,2025-01-16,C00127,P00901,Smartphone,Electronics,3,689.01,Belgium
+100086,2025-09-01,C00231,P00678,Office Chair,Furniture,3,187.45,Switzerland
+100184,2025-03-05,C00233,P00522,Desk Lamp,Furniture,2,25.12,Belgium
+100023,2025-09-14,C00092,P00399,Coffee Maker,Home Appliances,4,88.9,Switzerland
+100101,2025-08-31,C00059,P00871,Vacuum Cleaner,Home Appliances,4,197.07,Spain
+100387,2025-10-13,C00090,P00733,Novel - Fiction,Books,2,12.64,Italy
+100410,2025-09-15,C00221,P00234,Noise Cancelling Headphones,Electronics,1,146.83,France
+100469,2025-12-30,C00228,P00256,Water Bottle,Sportswear,1,15.26,Italy
+100308,2025-06-05,C00274,P00311,Mechanical Keyboard,Electronics,2,92.37,France
+100357,2025-08-23,C00132,P00967,Notebook Set,Stationery,1,9.15,Netherlands
+100383,2025-01-25,C00126,P00284,Pen Pack,Stationery,1,6.0,Spain
+100181,2025-09-04,C00152,P00284,Pen Pack,Stationery,3,5.98,Portugal
+100234,2025-09-29,C00262,P00901,Smartphone,Electronics,4,709.54,Germany
+100207,2025-12-02,C00283,P00284,Pen Pack,Stationery,3,6.13,Spain
+100046,2025-11-01,C00035,P00815,Cookbook,Books,3,25.65,Germany
+100208,2025-07-31,C00174,P00846,Dumbbell Set,Sportswear,1,59.32,Netherlands
+100131,2025-02-08,C00081,P00452,Laptop,Electronics,1,798.55,Belgium
+100054,2025-02-23,C00069,P00678,Office Chair,Furniture,1,190.6,France
+100037,2025-05-08,C00099,P00901,Smartphone,Electronics,2,686.7,France
+100436,2025-06-20,C00195,P00190,Bookshelf,Furniture,1,132.51,Spain
+100423,2025-02-08,C00175,P00458,Air Fryer,Home Appliances,3,119.25,United States
+100309,2025-03-20,C00088,P00815,Cookbook,Books,2,24.75,United Kingdom
+100347,2025-10-28,C00123,P00045,Tablet,Electronics,1,393.41,United Kingdom
+100399,2025-08-29,C00164,P00901,Smartphone,Electronics,1,702.62,Germany
+100302,2025-09-03,C00270,P00714,Yoga Mat,Sportswear,3,29.22,Portugal
+100108,2025-07-05,C00236,P00967,Notebook Set,Stationery,1,9.0,France
+100275,2025-07-18,C00192,P00678,Office Chair,Furniture,2,185.06,Germany
+100201,2025-10-31,C00056,P00846,Dumbbell Set,Sportswear,2,58.35,United States
+100236,2025-03-20,C00039,P00234,Noise Cancelling Headphones,Electronics,4,149.67,Belgium
+100380,2025-03-21,C00142,P00901,Smartphone,Electronics,4,683.73,Netherlands
+100189,2025-08-21,,P00815,Cookbook,Books,4,25.05,Belgium
+100205,2025-11-21,C00300,P00602,Blender,Home Appliances,2,50.28,Germany
+100468,2025-07-16,C00288,P00399,Coffee Maker,Home Appliances,2,89.95,Germany
+100113,2025-06-24,C00144,P00458,Air Fryer,Home Appliances,2,116.46,France
+100277,2025-06-30,C00280,P00190,Bookshelf,Furniture,3,132.17,France
+100048,2025-10-26,C00290,P00399,Coffee Maker,Home Appliances,1,90.91,France
+100013,2025-12-17,C00167,P00612,Backpack,Accessories,3,44.7,France
+100219,2025-11-21,C00016,P00311,Mechanical Keyboard,Electronics,2,89.56,France
